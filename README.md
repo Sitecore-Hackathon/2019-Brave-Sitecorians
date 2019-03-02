@@ -72,4 +72,4 @@ You don't need to configure anything else, the module is ready to be used once i
 
 ## Video
 
-[![Sitecore Hackathon 2019 Committer]()](https://www.youtube.com/watch?v=pQi3UdAdWZc)
+[![Sitecore Hackathon 2019 Committer](documentation/images/UncommitedChanges.jpeg)](https://www.youtube.com/watch?v=pQi3UdAdWZc)
