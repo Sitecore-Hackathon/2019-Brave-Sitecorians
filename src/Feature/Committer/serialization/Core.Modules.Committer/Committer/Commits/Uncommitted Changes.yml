@@ -1,0 +1,32 @@
+﻿---
+ID: "51073d05-e300-4653-b523-1232c0659c3c"
+Parent: "a84a1c86-27d7-4bf9-8626-bb8bdb39b122"
+Template: "9fcc9ae0-ca8d-4246-b054-6db8cd6c5e4a"
+Path: /sitecore/system/Modules/Committer/Commits/Uncommitted Changes
+DB: core
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/cubes_blue.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04fff81d-30ed-408d-b5aa-f00cc2d36b22"
+      Hint: Commited All
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180707T151838Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9023197a-98c0-458e-94f8-3403326505e4"
+      Hint: Name
+      Value: Uncommitted Changes
+    - ID: "a90828d3-ab1d-4095-8be8-341e4c658e05"
+      Hint: DateTime
+      Value: 20180531T213000Z

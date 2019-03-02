@@ -1,0 +1,43 @@
+﻿---
+ID: "7d5133dd-3ee2-4604-8f4c-46fcf03ee03f"
+Parent: "887cc614-721c-4f47-904d-7e24c3361043"
+Template: "19054d88-fed7-48ad-87cd-cf458590c303"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Committer/Select Commit
+DB: core
+SharedFields:
+- ID: "0a734af1-cbd3-4896-8615-6374d2d5dcee"
+  Hint: Gallery Width
+  Value: 400
+- ID: "9383f6dd-2d09-40a4-8004-4f63125dbdf6"
+  Hint: Gallery
+  Value: Gallery.Commits
+- ID: "b6d7d860-0aba-49dd-85d5-4d537646ef7f"
+  Hint: Command
+  Value: "gallery:getcommits"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+- ID: "c13fe317-1f69-42d1-b8ef-ee783d372926"
+  Hint: Gallery Height
+  Value: 250
+- ID: "e792e033-3264-4f34-bebf-b2bd82b0fc5a"
+  Hint: Icon
+  Value: People/32x32/cube_green_preferences.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180706T100355Z
+    - ID: "2ac65c2f-127b-43bc-8687-5689e1fb3d78"
+      Hint: Header
+      Value: Select Commit
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "81b23074-63af-4a28-9b45-ab27b3b2f619"
+      Hint: Tooltip
+      Value: Select Commit

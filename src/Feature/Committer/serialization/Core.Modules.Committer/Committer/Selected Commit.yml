@@ -1,0 +1,21 @@
+﻿---
+ID: "da787fbf-7759-48c8-9007-0f479475e89a"
+Parent: "1af24a00-a7f7-400a-8a6c-5ab1eb5df217"
+Template: "ccd4dcee-b263-4e2b-a964-941b88c5edb3"
+Path: /sitecore/system/Modules/Committer/Selected Commit
+DB: core
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17e3f426-92e2-410d-acda-efa06a1c4f99"
+      Hint: Commit
+      Value: "{F3EA363A-4E3C-44EA-9A44-B80FD248FFA7}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T121330Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

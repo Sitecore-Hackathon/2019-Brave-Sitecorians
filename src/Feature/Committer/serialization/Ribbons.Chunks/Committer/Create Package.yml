@@ -1,0 +1,34 @@
+﻿---
+ID: "634ac8e0-d281-4885-9a4f-6b639b214dce"
+Parent: "887cc614-721c-4f47-904d-7e24c3361043"
+Template: "bf349a5e-c6c3-4baf-bd58-de98727c5233"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Committer/Create Package
+DB: core
+SharedFields:
+- ID: "3fc2b182-a6ca-425d-8333-9f47a2aacd8f"
+  Hint: Command
+  Value: "contenteditor:newandupdateditemspackage"
+- ID: "8b7f2c0a-3afe-4213-b517-82af53125acc"
+  Hint: Icon
+  Value: Applications/32x32/folder2_green.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190301T151240Z
+    - ID: "393e6b6b-b6ba-4b3c-b0ae-57fe2ef3ad8b"
+      Hint: Menu
+      Value: /sitecore/content/Applications/Content Editor/Menues/Package Generator
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ccb68adb-5889-4480-8788-55e643a32100"
+      Hint: Header
+      Value: Create Package

@@ -1,0 +1,28 @@
+﻿---
+ID: "256e3e57-a5e8-4bdb-a0e7-aaaf22572d7f"
+Parent: "887cc614-721c-4f47-904d-7e24c3361043"
+Template: "abc069d5-3627-4a20-841e-d199b0eb4957"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Committer/Show Changed
+DB: core
+SharedFields:
+- ID: "fa8ffab1-6269-480d-b746-f6bed5a178a2"
+  Hint: Click
+  Value: "contenteditor:togglechangeditems"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180618T141448Z
+    - ID: "455d570d-77b9-4aa6-b84e-d7dcab7079c0"
+      Hint: Tooltip
+      Value: Show or hide changed items since last or selected commit.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a8b822-2b9d-4e1d-9e5f-82326fcbbfc1"
+      Hint: Header
+      Value: Show changed items

@@ -1,0 +1,14 @@
+﻿---
+ID: "3c5fc5f5-0038-4a59-86ab-cc6b4b490b0e"
+Parent: "cb7f573b-7d5b-4cbd-b5b2-829076c7bc64"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Committer/Selected Database
+DB: core
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180707T150118Z

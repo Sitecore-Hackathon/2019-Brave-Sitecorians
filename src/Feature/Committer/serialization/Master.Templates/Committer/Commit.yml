@@ -1,0 +1,18 @@
+﻿---
+ID: "9fcc9ae0-ca8d-4246-b054-6db8cd6c5e4a"
+Parent: "8bc11973-d7b8-4428-be6e-14e205222a09"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Committer/Commit
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: people/16x16/cubes_green.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180618T144631Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "a84a1c86-27d7-4bf9-8626-bb8bdb39b122"
+Parent: "1af24a00-a7f7-400a-8a6c-5ab1eb5df217"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/system/Modules/Committer/Commits
+DB: core
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: people/16x16/cubes_green.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: tree list
+  Value: "{9FCC9AE0-CA8D-4246-B054-6DB8CD6C5E4A}"

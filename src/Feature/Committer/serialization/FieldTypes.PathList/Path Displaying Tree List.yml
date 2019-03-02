@@ -1,0 +1,22 @@
+﻿---
+ID: "e9047de9-f300-4cc8-b3aa-90ad9fa758ea"
+Parent: "72352efd-3c06-404d-93fa-737f669f41fa"
+Template: "f8a17d6a-118e-4cd7-b5f5-88ff37a4f237"
+Path: /sitecore/system/Field types/List Types/Path Displaying Tree List
+DB: core
+SharedFields:
+- ID: "0f0a5388-0467-4a45-95c0-729b1d6db9fd"
+  Hint: Control
+  Value: "Committer:PathDisplayingTreeList"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180706T144805Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
