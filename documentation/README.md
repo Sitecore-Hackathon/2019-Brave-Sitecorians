@@ -59,15 +59,21 @@ You don't need to configure anything else, the module is ready to be used once i
 
 ## Usage 
 
-1. ![Changes](images/UncommitedChanges.jpeg?raw=true  "Commits List")
+1. Selecting commit details from the "Committer" tab:
 
-2. ![Commiter Ribbon](images/CommiterRibbon.jpeg?raw=true  "Commiter Ribbon")
+ ![Changes](images/UncommitedChanges.jpeg?raw=true  "Commits List")
+
+2. Filtering items that are displayed in the Content Tree
+
+ ![Commiter Ribbon](images/CommiterRibbon.jpeg?raw=true  "Commiter Ribbon")
  
-3. ![Chunk](images/Chunk.jpeg?raw=true  "Chunk")
+ ![Chunk](images/Chunk.jpeg?raw=true  "Chunk")
  
-4. ![Gutter](images/Gutter.jpeg?raw=true  "Gutter")
+ ![Gutter](images/Gutter.jpeg?raw=true  "Gutter")
  
-5. ![Changes](images/UncommitedChanges2.jpeg?raw=true  "List")
+3.  Getting Uncommited changes:
+
+ ![Changes](images/UncommitedChanges2.jpeg?raw=true  "List")
 
 
 ## Video
