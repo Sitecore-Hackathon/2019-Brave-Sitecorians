@@ -1,52 +1,33 @@
-# Documentation
-
-The documentation for this years Hackathon must be provided as a readme in Markdown format as part of your submission. 
-
-You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
-
-Examples of things to include are the following.
+# Sitecore Commiter Module
 
 ## Summary
 
-**Category:** Hackathon Category
+**Category:** Best enhancement to the Sitecore Admin (XP) UI for Content Editors & Marketers
 
-What is the purpose of your module? What problem does it solve and how does it do that?
+The main purposes of this module are the following:
+1. Tracking what Sitecore content has been changed (for any database).
+2. To see the list of items which have been added/deleted/changed.
+3. Providing visualization interface to see the changes right in the content tree
+4. Keeping record of changes locally using commit (like Git)
+5. Creating Sitecore package for each commit separatly
+
 
 ## Pre-requisites
 
-Does your module rely on other Sitecore modules or frameworks?
+Please ensure you have the following requirements installed:
+- Sitecore Experience Platform 9.1 Initial Release
 
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
+The module is based on Sitecore default functionality and doesn't require other Sitecore modules or frameworks.
 
 ## Installation
 
-Provide detailed instructions on how to install the module, and include screenshots where necessary.
-
-1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-2. ???
-3. Profit
+1. Use the Sitecore Update Installation Wizard to install the  packages:
+- [package](#link-to-package)
+- [package](#link-to-package)
 
 ## Configuration
 
-How do you configure your module once it is installed? Are there items that need to be updated with settings, or maybe config files need to have keys updated?
-
-Remember you are using Markdown, you can provide code samples too:
-
-```xml
-<?xml version="1.0"?>
-<!--
-  Purpose: Configuration settings for my hackathon module
--->
-<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
-  <sitecore>
-    <settings>
-      <setting name="MyModule.Setting" value="Hackathon" />
-    </settings>
-  </sitecore>
-</configuration>
-```
+You don't need to configure anything else, the module is ready to be used once it's correctly installed. No file configurations are needed.
 
 ## Usage
 
