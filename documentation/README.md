@@ -59,15 +59,15 @@ You don't need to configure anything else, the module is ready to be used once i
 
 ## Usage 
 
- ![Changes](images/UncommitedChanges.jpeg?raw=true  "Commits List")
+1. ![Changes](images/UncommitedChanges.jpeg?raw=true  "Commits List")
 
- ![Commiter Ribbon](images/CommiterRibbon.jpeg?raw=true  "Commiter Ribbon")
+2. ![Commiter Ribbon](images/CommiterRibbon.jpeg?raw=true  "Commiter Ribbon")
  
- ![Chunk](images/Chunk.jpeg?raw=true  "Chunk")
+3. ![Chunk](images/Chunk.jpeg?raw=true  "Chunk")
  
- ![Gutter](images/Gutter.jpeg?raw=true  "Gutter")
+4. ![Gutter](images/Gutter.jpeg?raw=true  "Gutter")
  
- ![Changes](images/UncommitedChanges2.jpeg?raw=true  "List")
+5. ![Changes](images/UncommitedChanges2.jpeg?raw=true  "List")
 
 
 ## Video
