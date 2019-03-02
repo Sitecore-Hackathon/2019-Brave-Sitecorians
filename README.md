@@ -1,4 +1,4 @@
-# Sitecore Commiter Module
+# Sitecore Committer Module
 
   
 
@@ -59,22 +59,31 @@ You don't need to configure anything else, the module is ready to be used once i
 
 ## Usage 
 
-1. Selecting commit details from the "Committer" tab:
+The module helps Content Editors to track the content changes providing the visual interface right in the content tree
+and allows to keep record of changes like git commit and export them as Sitecore package. This module also is suitable for developers, for instance, tracking item changes and adding those to commit withing a current task.
 
 ![Changes](documentation/images/UncommitedChanges.jpeg?raw=true  "Commits List")
 
-2. Filtering items that are displayed in the Content Tree
+This module is suitable for both the content editors and developers. There is a new **Committer** Ribbon where all module actions are located. User can use the following Commiter actions:
+
+- **Commit all**  - create new commit where all added/updated content items will be tracked.
+- **Show new item** - show all created items with appropriate gutter icon in scope of either the selected commit or uncommitted changes.
+- **Show changed items** - show all modified items with appropriate gutter icon in scope of either the selected commit or uncommitted - changes.
+- **Show unchanged items** - show all unmodified items in scope of either the selected commit or uncommitted changes.
+- **Select Commit** - allow user to observe the content changes in real time or select a commit for item reviewing in scope of the selected commit.
+- **Create package** - allow user to create and generate a Sitecore package for selected commit.
+
+![Chunk](documentation/images/Chunk.jpeg?raw=true  "Chunk")
 
 ![Commiter Ribbon](documentation/images/CommiterRibbon.jpeg?raw=true  "Commiter Ribbon")
  
-![Chunk](documentation/images/Chunk.jpeg?raw=true  "Chunk")
- 
-![Gutter](documentation/images/Gutter.jpeg?raw=true  "Gutter")
- 
-3.  Getting Uncommited changes:
+To track content changes in real time user should select **Uncommitted Changes** like below: 
 
 ![Changes](documentation/images/UncommitedChanges2.jpeg?raw=true  "List")
 
+Using this module, content editor can generate a Sitecore package where all (in a scope of selected commit) tracked items will be included.
+
+The Sitecore Committer Module supports database context switching.
 
 ## Video
 
