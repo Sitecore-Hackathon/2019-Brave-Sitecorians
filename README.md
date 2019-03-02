@@ -1,39 +1,82 @@
-![Hackathon Logo](documentation/images/hackathon.png?raw=true "Hackathon Logo")
+# Sitecore Commiter Module
 
-# Submission Boilerplate
+  
 
-Welcome to Sitecore Hackathon 2019.
+## Summary
 
-The Hackathon site can be found at http://www.sitecorehackathon.org/sitecore-hackathon-2019/
+  
 
-The purpose of this repository is to provide a sample which shows how to structure the Hackathon submissions.
+**Category:** Best enhancement to the Sitecore Admin (XP) UI for Content Editors & Marketers
 
+  
 
-## Entry Submission Requirements 
+The main purposes of this module are the following:
 
-All teams are required to submit the following as part of their entry submission on or before the end of the Hackathon on **Friday March 1st 2019 at 8PM EST**. The modules should be based on [Sitecore 9.1 (Initial Release)](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/91/Sitecore_Experience_Platform_91_Initial_Release.aspx).
+1. Tracking what Sitecore content has been changed (for any database).
 
-**Failure to meet any of the requirements will result in automatic disqualification.** Please reach out to any of the organisers or judges if you require any clarification.
+2. To see the list of items which have been added/deleted/changed.
 
-- Sitecore 9.1 (Initial Release) Module (Module install package)
-   - An installation Sitecore Package (`.zip` or `.update`)
+3. To see the changes right in the content tree.
 
-- Module code in a public Git source repository. We will be judging (amongst other things):
-  - Cleanliness of code
-  - Commenting where necessary
-  - Code Structure
-  - Standard coding standards & naming conventions
+4. Keeping record of changes locally using commit (like Git).
 
-- Precise and Clear Installation Instructions document (1 – 2 pages)
-- Module usage documentation on [Readme.md](documentation) file on the Git Repository (2 – 5 pages)
-  - Module Purpose
-  - Module Sitecore Hackathon Category
-  - How does the end user use the Module?
-  - Screenshots, etc.
+5. Creating Sitecore package for each commit separately.
 
-- Create a 2 – 10 minutes video explaining the module’s functionality (A link to youtube video)
+  
+  
 
-  - What problem was solved
-  - How did you solve it
-  - What is the end result
+## Pre-requisites
 
+  
+
+Please ensure you have the following requirements installed:
+
+- Sitecore Experience Platform 9.1 Initial Release
+
+  
+
+The module is based on Sitecore default functionality and doesn't require other Sitecore modules or frameworks.
+
+  
+
+## Installation
+
+  
+
+1. Use the Sitecore Update Installation Wizard to install the packages:
+
+-  [Sitecore.Feature.Committer.Core.update](https://github.com/Sitecore-Hackathon/2019-Brave-Sitecorians/blob/master/sc.package/Sitecore.Feature.Committer.Core.update)
+
+-  [Sitecore.Feature.Committer.Master.update](https://github.com/Sitecore-Hackathon/2019-Brave-Sitecorians/blob/master/sc.package/Sitecore.Feature.Committer.Master.update)
+
+  
+
+## Configuration
+
+  
+
+You don't need to configure anything else, the module is ready to be used once it's correctly installed. No file configurations are needed.  
+
+![Hackathon Logo](images/hackathon.png?raw=true  "Hackathon Logo")
+
+  
+
+You can embed images of different formats too:
+
+  
+
+![Deal With It](images/deal-with-it.gif?raw=true  "Deal With It")
+
+  
+
+And you can embed external images too:
+
+  
+
+![Random](https://placeimg.com/480/240/any  "Random")
+
+  
+
+## Video
+
+[![Sitecore Hackathon 2019 Committer]()](https://www.youtube.com/watch?v=pQi3UdAdWZc)
