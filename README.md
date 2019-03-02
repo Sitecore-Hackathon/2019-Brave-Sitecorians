@@ -55,27 +55,20 @@ The module is based on Sitecore default functionality and doesn't require other 
 
   
 
-You don't need to configure anything else, the module is ready to be used once it's correctly installed. No file configurations are needed.  
+You don't need to configure anything else, the module is ready to be used once it's correctly installed. No file configurations are needed. 
 
-![Hackathon Logo](images/hackathon.png?raw=true  "Hackathon Logo")
+## Usage 
 
-  
+ ![Changes](documentation/images/UncommitedChanges.jpeg?raw=true  "Commits List")
 
-You can embed images of different formats too:
+ ![Commiter Ribbon](documentation/images/CommiterRibbon.jpeg?raw=true  "Commiter Ribbon")
+ 
+ ![Chunk](documentation/images/Chunk.jpeg?raw=true  "Chunk")
+ 
+ ![Gutter](documentation/images/Gutter.jpeg?raw=true  "Gutter")
+ 
+ ![Changes](documentation/images/UncommitedChanges2.jpeg?raw=true  "List")
 
-  
-
-![Deal With It](images/deal-with-it.gif?raw=true  "Deal With It")
-
-  
-
-And you can embed external images too:
-
-  
-
-![Random](https://placeimg.com/480/240/any  "Random")
-
-  
 
 ## Video
 
